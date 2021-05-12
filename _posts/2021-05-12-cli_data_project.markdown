@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI DATA PROJECT"
-date:       2021-05-12 18:56:04 +0000
+date:       2021-05-12 14:56:04 -0400
 permalink:  cli_data_project
 ---
 
@@ -10,7 +10,7 @@ The great thing about this project is that we had free range to build our progra
 
 I was able to find a comicbook API from api.shortboxed.com which is perfect for this poject. The great thing about APIs is they are more reliable than scarpping a website. If the owner of a website designs to change the page and settings, your scrapper may no longer be effective. APIs are not perfect in themselves, they have limitation into what the APIs overall functionality is, but typically over-time the information and functionality grows of an API vs being completely changed. 
 
-What I liked bested about the shortboxed API was having access to current, future and previous releases. So I am able to allow the user to select different releases for comics. The difficult part, was orgianzing all the data! Running the API this is what you get: ![](https://imgur.com/Kxsqrgq)
+What I liked bested about the shortboxed API was having access to current, future and previous releases. So I am able to allow the user to select different releases for comics. The difficult part, was orgianzing all the data! Running the API this is what you get: ![](https://imgur.com/a/3E5YPA9)
 Dealing with embedded arrays and hashes inside hashes!
 A lot of great information but no way a user would want to sort through all the jumbled information to find out the newest comicbook releases. I had to find a way to organize the information and make it easy to read. 
 
